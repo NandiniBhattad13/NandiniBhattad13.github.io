@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Final Year Undergraduate at the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in).
+subtitle: Final Year Undergraduate at the at <a href="https://www.iitk.ac.in">Indian Institute of Technology, Kanpur</a>.
 
 profile:
   align: right
