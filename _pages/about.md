@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Final Year Undergraduate at the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in).
 
 profile:
   align: right
