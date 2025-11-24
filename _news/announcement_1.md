@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated class 10!
+I graduated class 10 !
