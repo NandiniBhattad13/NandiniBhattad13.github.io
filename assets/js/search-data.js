@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -394,16 +387,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-graduated-class-10",
+          title: 'I graduated class 10 !',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-cracked-the-jee-advanced-examination-and-got-admission-into-iit-kanpur",
+          title: 'I cracked the JEE Advanced Examination and got admission into IIT Kanpur.',
           description: "",
-          section: "News",},{id: "news-i-graduated-class-10",
-          title: 'I graduated class 10!',
+          section: "News",},{id: "news-i-became-a-coordinator-at-the-english-literary-society-iit-kanpur",
+          title: 'I became a Coordinator at the English Literary Society, IIT Kanpur.',
+          description: "",
+          section: "News",},{id: "news-i-secured-an-internship-at-deutsche-bank-india",
+          title: 'I secured an internship at Deutsche Bank, India.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -455,7 +449,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Curriculum_Vitae.pdf", "_blank");
         },
       },{
         id: 'social-email',
