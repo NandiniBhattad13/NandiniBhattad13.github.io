@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Study of Non-Parametric Regression
+description: 
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: work
+redirect: https://github.com/NandiniBhattad13/Non-Parametric-Regression
 ---
 
 Every project has a beautiful feature showcase page.
