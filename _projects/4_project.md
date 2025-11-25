@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Probabilistic Assignment Rules with Restricted Fractional Endowments
-description: another without an image
+description:
 img:
 importance: 3
 category: work
