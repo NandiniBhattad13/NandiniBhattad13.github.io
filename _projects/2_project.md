@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Bayesian Inference Based on Expected Evaluation
+description: 
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
+redirect: https://github.com/NandiniBhattad13/Approximate-Bayesian-Inference-Based-on-Expected-Evaluation
 ---
 
 Every project has a beautiful feature showcase page.
