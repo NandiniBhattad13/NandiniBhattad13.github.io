@@ -392,8 +392,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-completed-a-3-month-internship-at-deutsche-bank-india",
           title: 'I completed a 3 month internship at Deutsche Bank, India.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-approximate-thompson-sampling-for-contextual-bandits",
+          title: 'Approximate Thompson Sampling for Contextual Bandits',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
