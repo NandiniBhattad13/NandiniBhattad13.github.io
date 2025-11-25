@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
+title: Probabilistic Assignment Rules with Restricted Fractional Endowments
 description: another without an image
 img:
 importance: 3
-category: fun
+category: work
+redirect: https://nandinibhattad13.github.io/assets/pdf/Top Trading Cycles Under Probabilistic Assignments.pdf
 ---
 
 Every project has a beautiful feature showcase page.
