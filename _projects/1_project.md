@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Approximate Thompson Sampling for Contextual Bandits
 description: with background image
 img: assets/img/12.jpg
 importance: 1
