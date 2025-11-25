@@ -404,7 +404,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-personalized-recommendation-in-transport-itinerary",
           title: 'Personalized Recommendation in Transport Itinerary',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-probabilistic-assignment-rules-with-restricted-fractional-endowments",
