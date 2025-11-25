@@ -409,7 +409,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-probabilistic-assignment-rules-with-restricted-fractional-endowments",
           title: 'Probabilistic Assignment Rules with Restricted Fractional Endowments',
-          description: "another without an image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-study-of-non-parametric-regression",
