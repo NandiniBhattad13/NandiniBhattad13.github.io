@@ -24,5 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Hi, this is Nandini! Welcome to my website and I hope you are stalking me for a reasonable purpose. I am currently pursuing a Bachelor of Science in Statistics and Data Science from IIT Kanpur. I am interested in machine learning and AI, particularly their statistical underpinnings. Apart from that if you are a Potter Head I already like you!!
+<div style="font-size: 18px;">
+Hi, this is Nandini! Welcome to my website. I am currently pursuing a Bachelor of Science in Statistics and Data Science with minors in Machine Learning and Cognitive Science from the [Indian Institute of Technology, Kanpur]{https://www.iitk.ac.in}. I am deeply interested in understanding and exploring the statistical underpinnings of machine learning and artificial intelligence. At IITK, I am currently working with [Prof. Dootika Vats]{https://dvats.github.io} on Markov Chain monte Carlo methods in Reinforcement Learning. I am also collaborating with [Prof. Soumyarup Sadhukhan]{https://sites.google.com/view/soumyarups} on the top trading cycle mechanism in game theory. 
+  
+Apart from academics, I have served as a Coordinator for the [English Literary Society at IIT Kanpur]{https://elsiitk.wordpress.com} where I was responsible for organizing literary events on campus. I enjoy swimming and I am a trained classical dancer. I am a big fan of the show <em>Friends</em> and if you are a Potterhead, I already like you!
+</div>
