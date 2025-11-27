@@ -29,7 +29,7 @@ latest_posts:
 Hi, this is Nandini! Welcome to my website. I am currently pursuing a Bachelor of Science in Statistics and Data Science with minors in Machine Learning and Cognitive Science from the <a href="https://www.iitk.ac.in" target="_blank">Indian Institute of Technology, Kanpur </a>. 
 </p>
 <p>
-I am deeply interested in understanding and exploring the statistical underpinnings of machine learning and artificial intelligence. At IITK, I am currently working with <a href="https://dvats.github.io" target="_blank">Prof. Dootika Vats</a> on Markov Chain monte Carlo methods in Reinforcement Learning. I am also collaborating with <a href="https://sites.google.com/view/soumyarups" target="_blank">Prof. Soumyarup Sadhukhan</a> on the top trading cycle mechanism in game theory. 
+I am deeply interested in understanding and exploring the statistical underpinnings of machine learning and artificial intelligence. At IITK, I am currently working with <a href="https://dvats.github.io" target="_blank">Prof. Dootika Vats</a> on Markov Chain Monte Carlo methods in Reinforcement Learning. I am also collaborating with <a href="https://sites.google.com/view/soumyarups" target="_blank">Prof. Soumyarup Sadhukhan</a> on the top trading cycle mechanism in game theory. 
 </p>
 <p>
 Apart from academics, I have served as a Coordinator for the <a href="https://elsiitk.wordpress.com" target="_blank">English Literary Society at IIT Kanpur</a> where I was responsible for organizing literary events on campus. I enjoy swimming and I am a trained classical dancer. I am a big fan of the show <em>Friends</em> and if you are a Potterhead, I already like you!
