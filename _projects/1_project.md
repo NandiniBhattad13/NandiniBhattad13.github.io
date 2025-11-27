@@ -2,7 +2,7 @@
 layout: page
 title: Approximate Thompson Sampling for Contextual Bandits
 description:
-img: assets/img/3.png
+img: assets/img/3.jpg
 importance: 1
 category: work
 related_publications: false
