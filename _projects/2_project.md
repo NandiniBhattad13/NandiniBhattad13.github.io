@@ -2,7 +2,7 @@
 layout: page
 title: Bayesian Inference Based on Expected Evaluation
 description: 
-img: assets/img/3.jpg
+img: 
 importance: 2
 category: work
 giscus_comments: false
