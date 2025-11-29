@@ -438,6 +438,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
