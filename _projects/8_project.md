@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Illusion of Thinking: Evaluating Large Reasoning Models
+title: "The Illusion of Thinking: Evaluating Large Reasoning Models"
 description:
 img: assets/img/7.jpg
 importance: 1
