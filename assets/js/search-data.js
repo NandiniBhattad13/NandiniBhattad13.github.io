@@ -438,8 +438,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-the-illusion-of-thinking-evaluating-large-reasoning-models",
+          title: 'The Illusion of Thinking: Evaluating Large Reasoning Models',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
